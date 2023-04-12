@@ -1,3 +1,6 @@
 go 1.20
 
-use ./23mymodules
+use (
+	./23mymodules
+	./24buildapi
+)
